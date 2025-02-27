@@ -64,7 +64,7 @@ For an interactive version of this analysis, you can view and run the Kaggle not
 
 ## YouTube Video
 Watch the video walkthrough of this project on YouTube:  
-[YouTube: Retail Price and Yield Analysis of Vegetables and Fruits](https://www.youtube.com/watch?v=your_video_id)
+[YouTube: Retail Price and Yield Analysis of Vegetables and Fruits](https://youtu.be/Z5lDcr7Jf1s)
 
 ## LinkedIn Profile
 Feel free to connect with me on LinkedIn:  
